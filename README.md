@@ -1,4 +1,4 @@
-# shayna-store
+# icloth-store
 
 ## Project setup
 ```
